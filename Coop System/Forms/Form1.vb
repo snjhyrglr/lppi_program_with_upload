@@ -527,7 +527,7 @@ exitSub:
         loadStandardRate()
         listLoantypes()
         listMemberID()
-        coopName = "Air Cavaliers Credit Cooperative"
+        coopName = "ACCC"
 
         Dim forTrim As String = "aaa "
         forTrim.Replace(" ", ".")

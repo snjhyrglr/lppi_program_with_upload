@@ -364,3 +364,7 @@ D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Microsoft.Vbe.Inte
 D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.exe
 D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.xml
 D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\lppi_program_with_upload\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\lppi_program_with_upload\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\lppi_program_with_upload\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\lppi_program_with_upload\Coop System\obj\Debug\Coop System.pdb
