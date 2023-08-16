@@ -1,0 +1,20 @@
+Try
+            ClearLoanDetails()
+            ClearMemDetails()
+
+            konek()
+            qry = "SELECT * FROM tbl_member_info where MEMBER_CODE = '" & cbMemCode.Text & "'"
+            mycmd = New MySqlCommand(qry, Myconn)
+            mydr = mycmd.ExecuteReader
+
+            If mydr.Read = True Then
+                txtFname.Text = mydr("F_NAME")
+                txtLname.Text = mydr("L_NAME")
+                txtMI.Text = mydr("M_INITIAL")
+                txtSuffix.Text = mydr("SUFFIX")
+                txtBirthdate.Text = mydr("BDAY")
+                cbGender.Text = mydr("GENDER")
+            End If
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        End Try

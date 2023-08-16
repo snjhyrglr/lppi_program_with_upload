@@ -1,0 +1,11 @@
+  'Dim date1 As String = txtEffect.Text
+        'Dim date2 As String = txtExpiry.Text
+
+        'If txtTerms.Text = Nothing Then
+        '    Dim terms As Integer = DateDiff(DateInterval.Month, CDate(date1), CDate(date2))
+        '    txtTerms.Text = terms
+        'Else
+        '    Dim dt As DateTime = date1
+        '    Dim expDate As DateTime = dt.AddMonths(txtTerms.Text)
+        '    txtExpiry.Text = expDate.ToString("MM/dd/yyyy")
+        'End If

@@ -1,0 +1,33 @@
+For ctr As Integer = 0 To lvMembers.Items.Count - fctr
+                    If lvMembers.Items(ctr).Checked = True Then
+                        bday = lvMembers.Items(ctr).SubItems(5).Text
+                        getAge()
+                        If Not edad > 65 Then
+                            Dim lv As ListViewItem
+                            lv = New ListViewItem(New String() {lvMembers.Items(ctr).SubItems(0).Text, lvMembers.Items(ctr).SubItems(1).Text, lvMembers.Items(ctr).SubItems(2).Text, lvMembers.Items(ctr).SubItems(3).Text, lvMembers.Items(ctr).SubItems(4).Text, lvMembers.Items(ctr).SubItems(5).Text, lvMembers.Items(ctr).SubItems(6).Text, edad, txtEffectivity.Text, txtExpiry.Text, fRate})
+                            lvInsuredMem.Items.AddRange(New ListViewItem() {lv})
+                        Else
+                            MessageBox.Show("Member is overage.")
+                            Exit Sub
+                        End If
+                    Else
+                        Continue For
+                    End If
+                Next
+
+
+
+'For check As Integer = 0 To lvMembers.CheckedItems.Count - 1
+                '    For ctr As Integer = 0 To lvMembers.Items.Count - 1
+                '        If lvMembers.Items(ctr).Checked = True Then
+                '            bday = lvMembers.Items(ctr).SubItems(5).Text
+                '            getAge()
+                '            If Not edad > 65 Then
+                '                lvMembers.Items(ctr).Remove()
+                '            Else
+                '                Continue For
+                '            End If
+                '            Exit For
+                '        End If
+                '    Next
+                'Next

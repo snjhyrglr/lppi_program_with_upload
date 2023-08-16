@@ -1,0 +1,366 @@
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Debug\Coop System.exe.config
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Debug\Coop System.exe
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Debug\Coop System.pdb
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Debug\Coop System.xml
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop System.exe
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop System.xml
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop System.pdb
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+E:\oi\Coop System\Coop System\bin\Debug\Coop System.exe.config
+E:\oi\Coop System\Coop System\obj\Debug\Coop System.exe
+E:\oi\Coop System\Coop System\obj\Debug\Coop System.xml
+E:\oi\Coop System\Coop System\obj\Debug\Coop System.pdb
+E:\oi\Coop System\Coop System\bin\Debug\Coop System.exe
+E:\oi\Coop System\Coop System\bin\Debug\Coop System.pdb
+E:\oi\Coop System\Coop System\bin\Debug\Coop System.xml
+E:\oi\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+E:\oi\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.exe.config
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.exe
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.xml
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.pdb
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.exe
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.pdb
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.xml
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+F:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.exe.config
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.exe
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.xml
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.pdb
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.exe
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.pdb
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\bin\Debug\Coop System.xml
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\RdlCompile.cache
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+G:\Systems\TAO MANAGEMENT\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe.config
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.exe
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.xml
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.pdb
+G:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe
+G:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.pdb
+G:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.xml
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.cache
+G:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\MySql.Data.dll
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe.config
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.exe
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.xml
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.pdb
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.pdb
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.xml
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.cache
+E:\sys\Systems\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\JYSN\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\JYSN\COOPS\SAPANG PALAY\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\JYSN\COOPS\SAN JOSE KOOP\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop System.pdb
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\JYSN\COOPS\CB  BATAAN\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\ResolveAssemblyReference.cache
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.Form1.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmAddBatch.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmAdmin.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPass.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmAdminPassGYRT.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISS.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGBLISSBatch.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGYRT.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTAdmin.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTBatch.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmGYRTNew.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmImport.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmLogin.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmMainMenu.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmMemberRpt.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmRegister.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmReport.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmReportGBLISS.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmReportGYRT.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmSearch.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.frmUnused.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop_System.Resources.resources
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.vbproj.GenerateResource.Cache
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\RdlCompile.cache
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\RdlCompile.compiled
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Coop System.exe.config
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Coop System.exe
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Coop System.pdb
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Coop System.xml
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\office.dll
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.exe
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.xml
+D:\JYSN\COOPS\AIR CAVALIERS\Coop System\Coop System\obj\Debug\Coop System.pdb

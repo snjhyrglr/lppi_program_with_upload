@@ -1,0 +1,8 @@
+konek()
+        qry = "SELECT * FROM tbl_member_info where MEMBER_CODE = '" & cbMemCode.Text & "'"
+        mycmd = New MySqlCommand(qry, Myconn)
+        mydr = mycmd.ExecuteReader
+
+        If mydr.Read Then
+            txtFullName.Text = mydr("L_NAME") & " " & mydr("SUFFIX") & ", " & mydr("F_NAME") & " " & mydr("M_INITIAL") & "."
+        End If

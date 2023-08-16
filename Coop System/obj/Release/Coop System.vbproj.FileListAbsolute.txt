@@ -1,0 +1,22 @@
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.Form1.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmAddBatch.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmGYRT.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmGYRTBatch.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmGYRTNew.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmMainMenu.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmReport.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmReportGYRT.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.Resources.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop System.vbproj.GenerateResource.Cache
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Release\Coop System.exe.config
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Release\Coop System.exe
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Release\Coop System.pdb
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\bin\Release\Coop System.xml
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop System.exe
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop System.xml
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop System.pdb
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmAdmin.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmGBLISS.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmLogin.resources
+C:\Users\Ansell\Desktop\Systems\Coop System\Coop System\obj\Release\Coop_System.frmRegister.resources

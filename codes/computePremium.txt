@@ -1,0 +1,47 @@
+Sub ComputePremium()
+        ctr = 0
+        lamt = Val(txtLoanAmt.Text)
+        term = Val(txtTerms.Text)
+
+
+        If txtAge.Text <= 65 And txtAge.Text >= 18 And term = 12 Then
+            grossRate = (5.2 / 12)
+            gross = (((lamt / 1000) * grossRate) * term)
+            comm = (gross * (1.12 / 5.2))
+            net = gross - comm
+            ctr = 1
+
+        ElseIf txtAge.Text <= 65 And txtAge.Text >= 18 And term = 24 Then
+            grossRate = (12 / 24)
+            gross = (((lamt / 1000) * grossRate) * term)
+            comm = (gross * (3.84 / 12))
+            net = gross - comm
+            ctr = 1
+
+        ElseIf txtAge.Text <= 65 And txtAge.Text >= 18 And term = 36 Then
+            grossRate = (15 / 36)
+            gross = (((lamt / 1000) * grossRate) * term)
+            comm = (gross * (2.76 / 15))
+            net = gross - comm
+            ctr = 1
+
+        ElseIf txtAge.Text <= 65 And txtAge.Text >= 18 And term = 48 Then
+            grossRate = (20 / 48)
+            gross = (((lamt / 1000) * grossRate) * term)
+            comm = (gross * (3.68 / 20))
+            net = gross - comm
+            ctr = 1
+
+        ElseIf txtAge.Text <= 65 And txtAge.Text >= 18 And term = 60 Then
+            grossRate = (24 / 60)
+            gross = (((lamt / 1000) * grossRate) * term)
+            comm = (gross * (3.96 / 24))
+            net = gross - comm
+            ctr = 1
+        Else
+            MessageBox.Show("Not Qualify.", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+        End If
+
+        'MessageBox.Show("Net: " & net.ToString("#,##0.00") & vbCrLf & "Gross: " & gross.ToString("#,##0.00") & _
+        '                vbCrLf & "Commission: " & comm.ToString("#,##0.00"))
+    End Sub

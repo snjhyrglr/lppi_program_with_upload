@@ -1,0 +1,39 @@
+ 'Try
+        '    Dim strArr() As String
+        '    Dim str As String
+        '    Dim lname As String = ""
+        '    Dim fname As String = ""
+        '    Dim mi As String = ""
+        '    Dim suf As String = ""
+        '    Dim count As Integer
+
+        '    str = cbMemCode.Text
+        '    strArr = str.Split(",")
+        '    For count = 1 To strArr.Length - 1
+        '        lname = strArr(0)
+        '        fname = strArr(1)
+        '        mi = strArr(2)
+        '        suf = strArr(3)
+        '    Next
+        '    konek()
+        '    qry = "SELECT MEMBER_CODE FROM tbl_member_info where L_NAME = '" & lname & "' and F_NAME = '" & fname & "' " & _
+        '    "and M_INITIAL = '" & mi & "' and SUFFIX = '" & suf & "'"
+        '    mycmd = New MySqlCommand(qry, Myconn)
+        '    mydr = mycmd.ExecuteReader
+
+        '    If mydr.Read = True Then
+        '        txtFullName.Text = mydr(0)
+        '    Else
+        '        konek()
+        '        qry = "SELECT count(*) FROM tbl_member_info"
+        '        mycmd = New MySqlCommand(qry, Myconn)
+        '        mydr = mycmd.ExecuteReader
+
+        '        While mydr.Read
+        '            Dim va As Integer = mydr(0) + 1
+        '            txtFullName.Text = "LPPI-" & va.ToString("00000")
+        '        End While
+        '    End If
+        'Catch ex As Exception
+        '    'MessageBox.Show(ex.Message)
+        'End Try

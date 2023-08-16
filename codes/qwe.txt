@@ -1,0 +1,11 @@
+user
+batch
+
+
+username
+name
+details
+action
+date
+
+mysqldump -u root -p 1Cisp1974 --all-databases > all-db-dump.sql
